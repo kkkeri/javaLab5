@@ -1,0 +1,4 @@
+info
+info
+history
+execute_script sc.txt
